@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Raghava Dhanukonda</h1>
+<h1 align="center">Hi 👋, Nikhil Adapureddy</h1>
 <h3 align="center">A passionate Web developer&Competitive Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghava7095&label=Profile%20views&color=0e75b6&style=flat" alt="raghava7095" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **HTML,CSS,Javascript,C++**
 
-- 📫 How to reach me **raghavadhanukonda709@gmail.com**
+- 📫 How to reach me **nikhiladapureddy@gmail.com**
 
 - ⚡ Fun fact **We born to develop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raghava__18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghava__18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghava dhanukonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghava dhanukonda" height="30" width="40" /></a>
-<a href="https://instagram.com/raghava_.27.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raghava_.27.03" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raghava7095" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghava7095" height="30" width="40" /></a>
 </p>
 
